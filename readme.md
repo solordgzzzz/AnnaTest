@@ -1,0 +1,1 @@
+Le but de ce projet est de créer une page web simple en utilisant HTML5 et CSS
